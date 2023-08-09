@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/starstec.github.io/static/css/main.c83db9d9.css",
+    "main.js": "/starstec.github.io/static/js/main.bca1d318.js",
+    "static/media/phone1x2.png": "/starstec.github.io/static/media/phone1x2.5bf081349ec547a6081a.png",
+    "static/media/phone3x2.png": "/starstec.github.io/static/media/phone3x2.18d521c6dace114321f0.png",
+    "static/media/phone2x2.png": "/starstec.github.io/static/media/phone2x2.fbd81ba1fbdfac0033fc.png",
+    "static/media/person3.png": "/starstec.github.io/static/media/person3.288dd59fb9d556fcc12a.png",
+    "static/media/person4.png": "/starstec.github.io/static/media/person4.ec9362a837297573031d.png",
+    "static/media/person1.png": "/starstec.github.io/static/media/person1.5f80e310293ccca3da7d.png",
+    "static/media/person5.png": "/starstec.github.io/static/media/person5.dfa5ed70c647ffe0cefb.png",
+    "static/media/person2.png": "/starstec.github.io/static/media/person2.f54c49ecf1b27d81f776.png",
+    "static/media/egypt.svg": "/starstec.github.io/static/media/egypt.f056c62d7e1fd43b5b97b56e7bf3b9dc.svg",
+    "index.html": "/starstec.github.io/index.html",
+    "main.c83db9d9.css.map": "/starstec.github.io/static/css/main.c83db9d9.css.map",
+    "main.bca1d318.js.map": "/starstec.github.io/static/js/main.bca1d318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c83db9d9.css",
+    "static/js/main.bca1d318.js"
+  ]
+}
