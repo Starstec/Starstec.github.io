@@ -1,0 +1,16 @@
+#section4 {
+  text-align: center;
+}
+
+#section4 .title-container {
+  padding: 0 5rem;
+}
+
+#section4 .testimonials-container {
+  padding: 10rem;
+  display: grid;
+  grid-gap: 1rem;
+  place-items: center;
+
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+}
